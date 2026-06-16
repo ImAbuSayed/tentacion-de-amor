@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche en Barna está fría, pero tú me quemas,
+> Con esa mirada de diabla rompes mi sistema.
+> Yo sé que tú quieres pecar, no me digas que no,
+> Nos vamos a lo oscuro, solo somos tú y yo.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
