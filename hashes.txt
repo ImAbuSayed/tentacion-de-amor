@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tentación de amor
+
+This log tracks the cryptographic history and versioning for the song **Tentación de amor** (tentacion-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:20:39.145116 | `v1` | `af47d58cf2dc4ebb51da96d81698b7bb4ccac5f9cfc9871fd508da1965162389` | `f22a38b65f32e1213124256ca7cc84b8a8ed2345c8b1d5e78bad2fb349f53f42` | `2026-06-16_tentacion-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tentacion-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tentación de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-de-amor/) |
+| **Get License** | [Request Licensing for Tentación de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `af47d58cf2dc4ebb51da96d81698b7bb4ccac5f9cfc9871fd508da1965162389` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
